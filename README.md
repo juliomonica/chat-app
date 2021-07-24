@@ -6,7 +6,7 @@
 Clone and install the dependencies inside the client and server folder:
 
 ```bash
-$ git clone https://github.com/peleadorsinley/chat-app.git
+$ git clone https://github.com/juliomonica/chat-app.git
 $ cd chat-app/server
 $ npm install
 $ cd ..
